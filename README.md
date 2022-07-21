@@ -1,4 +1,4 @@
-## 👋 Hi! I'm MasatoNagashima
+## 👋 Hi! I'm Masato Nagashima
 
 <p align="left"> 
   <a href="https://github.com/MasatoNagashima/MasatoNagashima/">
