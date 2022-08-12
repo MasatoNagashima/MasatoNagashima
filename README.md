@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm Masato Nagashima
-
+Focusing on machine learning and data engineering.
 
 <p align="left"> 
   <a href="https://github.com/MasatoNagashima/MasatoNagashima/">
